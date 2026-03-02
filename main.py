@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-stock_file_path = '/Users/ninogevorkiani/Desktop/Stock-Prices/stock.csv'
+stock_file_path = 'stock.csv'
 stock_df = pd.read_csv(stock_file_path)
 
 #Plot data before changing
