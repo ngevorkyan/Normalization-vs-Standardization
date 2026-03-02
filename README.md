@@ -16,10 +16,11 @@ Basically, the project contains simple 3-column generated data which you can fin
 **Standardized DF plot:**  
 <img src="png-standardized.png" width="400" style="display:block;">
 
-Pay attention to how normalized values are only from 0 to 1 
-and how standardized dataframe mean is 0 with standard deviation of 1.  
+**Quick Stat Chack:**
+- Normalized values are only from 0 to 1
+- Standardized dataframe mean is 0 with standard deviation of 1
 
-<img src="stats-for-data.png" width="400" style="display:block;">
+
 
 ---
 
