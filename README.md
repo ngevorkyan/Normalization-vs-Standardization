@@ -7,7 +7,7 @@ Basicly the project contains simple 3 column generated data which you can find w
 - Then we apply MinMaxScaler() to Normalize it. Describe it and plot the normalized dataframe 
 - Lastly we apply StandardScaler() to standardize it. Describe it and plot the standardized dataframe
 
-<img src="stats-for-data.png">
+<img src="stats-for-data.png" width=200>
 
 Libraries Used: Pandas, Matplotlib, Seaborn, SciKit-Learn
 Source video link: https://www.youtube.com/watch?v=bqhQ2LWBheQ&t=9s
