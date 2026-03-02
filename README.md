@@ -20,7 +20,7 @@ Basically, the project contains simple 3-column generated data which you can fin
 - Normalized values are only from 0 to 1
 - Standardized dataframe mean is 0 with standard deviation of 1
 
-
+<img src="stats-for-data.png" width="400" style="display:block;">
 
 ---
 
