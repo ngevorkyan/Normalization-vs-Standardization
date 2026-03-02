@@ -7,6 +7,8 @@ Basically, the project contains simple 3-column generated data which you can fin
 - Then we apply `MinMaxScaler()` to Normalize it, describe it, and plot the normalized dataframe.
 - Lastly, we apply `StandardScaler()` to standardize it, describe it, and plot the standardized dataframe.
 
+Take a closer look to plots, they look the same but numbers vary
+
 **Original DF plot:**  
 <img src="png-original.png" width="400" style="display:block;">
 
@@ -17,8 +19,8 @@ Basically, the project contains simple 3-column generated data which you can fin
 <img src="png-standardized.png" width="400" style="display:block;">
 
 **Quick Stat Chack:**
-- Normalized values are only from 0 to 1
-- Standardized dataframe mean is 0 with standard deviation of 1
+- Normalized values are only in the range of 0 to 1
+- Standardized dataframe mean is always 0 with standard deviation of 1
 
 <img src="stats.png" width="400" style="display:block;">
 
